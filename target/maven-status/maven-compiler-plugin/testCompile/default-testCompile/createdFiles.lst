@@ -1,0 +1,14 @@
+stellaburgers\operators\RegisterPage.class
+stellaburgers\api\UserApi.class
+stellaburgers\operators\ProfilePage.class
+stellaburgers\utils\Urls.class
+stellaburgers\utils\BrowserDrivers.class
+stellaburgers\tests\AuthorizationTests.class
+stellaburgers\tests\ProfilePageTests.class
+stellaburgers\tests\MainPageTests.class
+stellaburgers\dto\UserJson.class
+stellaburgers\operators\AuthenticationPage.class
+stellaburgers\dto\User.class
+stellaburgers\operators\MainPage.class
+stellaburgers\tests\RegisterPageTests.class
+stellaburgers\operators\ForgotPasswordPage.class
